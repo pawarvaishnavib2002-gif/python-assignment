@@ -13,3 +13,5 @@ num2 = [34, 89, 55, 56, 39, 67]
 result = sorted(set(num1) & set(num2))
 
 print(result)
+
+
